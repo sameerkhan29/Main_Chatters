@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>D:/Palestine for Chatter/OIG4.png</file>
+        <file>download (Custom) (1).png</file>
+        <file>C:/Users/arhan/Downloads/icons8-login-67.png</file>
+        <file>C:/Users/arhan/Downloads/icons8-registration-64.png</file>
+        <file>D:/Palestine for Chatter/Palestine.png</file>
+    </qresource>
+    <qresource prefix="/Chatinterface">
+        <file>C:/Users/arhan/Downloads/icons8-attach-laces (1)/icons8-attach-45.png</file>
+        <file>C:/Users/arhan/Downloads/icons8-sent-35.png</file>
+    </qresource>
+</RCC>
